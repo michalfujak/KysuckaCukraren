@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Blue Gray 50 styles global project -->
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorNavigonColorBar">#263238</color>
+    <color name="colorAccent">#D81B60</color>
+    <!-- Intro Button -->
+    <!-- Colors -->
+    <color name="backgroundButtonLogin">#263238</color>
+    <color name="backgroundButtonText">#CFD8DC</color>
+</resources>

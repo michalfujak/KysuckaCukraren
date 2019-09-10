@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "5694915289",
+    "firebase_url": "https://kysuckacukraren.firebaseio.com",
+    "project_id": "kysuckacukraren",
+    "storage_bucket": "kysuckacukraren.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5694915289:android:323ccc4df84601cc",
+        "android_client_info": {
+          "package_name": "com.cukraren.kysucka.kysuckacukraren"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5694915289-r954s0iru1791jtgf9sdnpckmdom3o99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cukraren.kysucka.kysuckacukraren",
+            "certificate_hash": "440f41ea07f8ea272be46540cca901cfc4d49436"
+          }
+        },
+        {
+          "client_id": "5694915289-7rhpvvccogeb5qj8o5pbnnj0hg7ahu7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNt4aO44dRf6e8xNT0UYq2cWYOMfQzaOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5694915289-7rhpvvccogeb5qj8o5pbnnj0hg7ahu7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
